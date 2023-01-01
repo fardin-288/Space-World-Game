@@ -41,6 +41,18 @@ If you press the instruction button you will see this page
 
 ![Screenshot 2023-01-02 023457](https://user-images.githubusercontent.com/102401671/210184048-de34db16-8471-48d2-ac05-773f6cb2915e.png)
 
+If you press play you will go the dynamic game
+
+![Screenshot 2023-01-02 023550](https://user-images.githubusercontent.com/102401671/210184072-88dd83a3-5683-47a9-b7c3-e1640d24e6cc.png)
+
+In upper left corner you can see the score and live
+
+![Screenshot 2023-01-02 023610](https://user-images.githubusercontent.com/102401671/210184099-afe06bec-7b59-42c6-8af6-5cf319b6d6ec.png)
+
+In the upper right corner you can see the reloading message when the bullets finished
+
+![Screenshot 2023-01-02 023658](https://user-images.githubusercontent.com/102401671/210184131-12d7da62-6be2-4b59-8e6b-b3deb85d0d35.png)
+
 # Running the game
 
 Use this command in your terminal:

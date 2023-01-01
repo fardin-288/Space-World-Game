@@ -17,4 +17,7 @@ Space_Game_Worker_Master is an SDL-based game written in c and c++ language. The
 
 # Project Modules
 
+1.main.cpp
+
+Calling the Game variable and using its functions init(), running(), handleEvents(), and render() in the main() function for initializing, running loop, handling the events and rendering the objects continuously.
 

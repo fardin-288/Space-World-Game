@@ -37,6 +37,9 @@ In the front page of the game there are 3 options these are play,instruction and
 
 ![Screenshot 2023-01-02 023427](https://user-images.githubusercontent.com/102401671/210184014-1ee5e00d-f3e5-42fd-80ab-c4223018cf68.png)
 
+If you press the instruction button you will see this page
+
+![Screenshot 2023-01-02 023457](https://user-images.githubusercontent.com/102401671/210184048-de34db16-8471-48d2-ac05-773f6cb2915e.png)
 
 # Running the game
 

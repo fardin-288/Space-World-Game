@@ -31,15 +31,15 @@ Space_Game_Worker_Master is an SDL-based game written in c and c++ language. The
 
 Calling the Game variable and using its functions init(), running(), handleEvents(), and render() in the main() function for initializing, running loop, handling the events and rendering the objects continuously.
 
-Functio
+2.Function
 
 Provides values.hpp,Initialize.hpp,motion.hpp,High_score.txt
 
-Image folder contains all images like background,spaceship,bullet,asteroid,explosion.
+3.Image folder contains all images like background,spaceship,bullet,asteroid,explosion.
 
-src folder contains all header files.
+4.src folder contains all header files.
 
-README.txt contains the command by which you can run the game.
+5.README.txt contains the command by which you can run the game.
 
 # Game Feature
 

@@ -16,3 +16,4 @@ Space_Game_Worker_Master is an SDL-based game written in c and c++ language. The
 2.The design of this project is memory efficient and can show the same efficiency in any device.
 
 3.The background of the game is
+![background](https://user-images.githubusercontent.com/102401671/210181621-7aa8243b-efcb-4110-95e1-1171e5305892.png)

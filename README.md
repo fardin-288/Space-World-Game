@@ -31,6 +31,13 @@ Space_Game_Worker_Master is an SDL-based game written in c and c++ language. The
 
 Calling the Game variable and using its functions init(), running(), handleEvents(), and render() in the main() function for initializing, running loop, handling the events and rendering the objects continuously.
 
+# Game Feature
+
+In the front page of the game there are 3 options these are play,instruction and exit
+
+![Screenshot 2023-01-02 023427](https://user-images.githubusercontent.com/102401671/210184014-1ee5e00d-f3e5-42fd-80ab-c4223018cf68.png)
+
+
 # Running the game
 
 Use this command in your terminal:

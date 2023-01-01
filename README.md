@@ -47,6 +47,10 @@ https://youtu.be/6Tg8Zuj8-N0
 
 2.The almost 95 percent code is written in c language.No upgraded feature  of c++ is available.
 
+# Conclusio
+
+After learning a new programming language the game project is helpful for us to learn project handling ,pressure handling,communication hacks that must be learned by software developers .We hope we can implement these learnings in our other real life projects. 
+
 # Library and Tools
 
 1.C/C++ - Basic coding of the game done in c!
@@ -58,4 +62,5 @@ https://youtu.be/6Tg8Zuj8-N0
 4.Inkscape - professional quality vector graphics software and open source!
 
 5.Git/GitHub - software development and version control using Git!
+
 

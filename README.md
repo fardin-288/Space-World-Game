@@ -8,3 +8,7 @@
 3.Md.Mahabub Hasan Mamun  Roll-43
 # Introduction
 Space_Game_Worker_Master is an SDL-based game written in c and c++ language. The simple and clear code made this game exceptional.The written code is easily customizable.Its a game of spaceship which goes in space.The user can control the spaceship.There are asteroids in the space .The user save the spaceship from the clash of asteroids.
+# Objectives
+1.All the codes written in this project are simple, clean and easy to change .
+2.The design of this project is memory efficient and can show the same efficiency in any device.
+3.The background of the game is

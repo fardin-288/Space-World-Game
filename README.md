@@ -41,6 +41,12 @@ g++ -Isrc/Include -Lsrc/lib -o main main.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_
 
 https://youtu.be/6Tg8Zuj8-N0
 
+# Limitation
+
+1.All codes are written in c in a structured manner.Object-oriented programming is not used.
+
+2.The almost 95 percent code is written in c language.No upgraded feature  of c++ is available.
+
 # Library and Tools
 
 1.C/C++ - Basic coding of the game done in c!

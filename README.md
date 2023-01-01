@@ -35,6 +35,11 @@ Functio
 
 Provides values.hpp,Initialize.hpp,motion.hpp,High_score.txt
 
+Image folder contains all images like background,spaceship,bullet,asteroid,explosion.
+
+src folder contains all header files.
+
+README.txt contains the command by which you can run the game.
 
 # Game Feature
 

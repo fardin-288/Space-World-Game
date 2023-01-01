@@ -27,6 +27,10 @@ Use this command in your terminal:
 
 g++ -Isrc/Include -Lsrc/lib -o main main.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
 
+#You Tube video link
+
+https://youtu.be/6Tg8Zuj8-N0
+
 # Library and Tools
 
 1.C/C++ - Basic coding of the game done in c!

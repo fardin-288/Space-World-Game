@@ -27,7 +27,7 @@ Use this command in your terminal:
 
 g++ -Isrc/Include -Lsrc/lib -o main main.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
 
-#You Tube video link
+# You Tube video link
 
 https://youtu.be/6Tg8Zuj8-N0
 

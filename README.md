@@ -21,3 +21,15 @@ Space_Game_Worker_Master is an SDL-based game written in c and c++ language. The
 
 Calling the Game variable and using its functions init(), running(), handleEvents(), and render() in the main() function for initializing, running loop, handling the events and rendering the objects continuously.
 
+# Library and Tools
+
+1.C/C++ - Basic coding of the game done in c!
+
+2.VS Code - Free. Built on open-source yet powerful IDE!
+
+3.SDL2 - cross-platform development library designed to provide low-level access!
+
+4.Inkscape - professional quality vector graphics software and open source!
+
+5.Git/GitHub - software development and version control using Git!
+

@@ -33,7 +33,9 @@ Calling the Game variable and using its functions init(), running(), handleEvent
 
 Functio
 
-Provides value.hpp,initialize.hpp,
+Provides values.hpp,Initialize.hpp,motion.hpp,High_score.txt
+
+
 # Game Feature
 
 In the front page of the game there are 3 options these are play,instruction and exit

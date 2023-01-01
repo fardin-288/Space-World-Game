@@ -53,6 +53,10 @@ In the upper right corner you can see the reloading message when the bullets fin
 
 ![Screenshot 2023-01-02 023658](https://user-images.githubusercontent.com/102401671/210184131-12d7da62-6be2-4b59-8e6b-b3deb85d0d35.png)
 
+After the game over you can see your score and high score
+
+![Screenshot 2023-01-02 023736](https://user-images.githubusercontent.com/102401671/210184157-550fd6e3-8eda-4fd0-b2b3-0bce3dc5b425.png)
+
 # Running the game
 
 Use this command in your terminal:
